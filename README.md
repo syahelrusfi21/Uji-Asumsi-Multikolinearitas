@@ -2,6 +2,7 @@
 Analisis Pengaruh Pasokan Uang, Indeks Harga Konsumen, Suku Bunga, dan Tingkat  Bunga terhadap Produk Domestik Bruto: Studi Kasus Permintaan Uang di Amerika  Serikat, tahun 1980-1998
 
 Latar Belakang
+
 Dalam penelitian, analisis yang kuat untuk menjawab pertanyaan penelitian yang kompleks adalah menggunakan metode regresi. (Gun Mardiatmoko). Analisis regresi memungkinkan kita untuk menganalisis banyak variabel secara bersamaan. Dalam analisis regresi, baik regresi linear maupun regresi multivariat, kita dapat memodelkan hubungan antara variabel independen dan variabel respon (variabel dependen) dalam suatu penelitian.
 Model regresi linear dapat dipilih tergantung pada beberapa faktor, seperti jumlah variabel independen yang terlibat dan kompleksitas hubungan yang ingin dipahami. Jika hanya melibatkan hubungan antara dua variabel, yaitu satu variabel independen dan variabel dependen (variabel respons), maka regresi yang digunakan adalah Regresi Linear Sederhana. Selanjutnya, jika melibatkan lebih dari satu variabel independen yang digunakan untuk memprediksi variabel dependen, maka model regresi yang akan digunakan adalah Regresi Linear Berganda.
 Model regresi linear dapat melibatkan lebih dari satu variabel independen. Secara umum jika terdapat k variabel independen, yakni (X1, X2, ..., Xn), maka model regresi linearnya adalah
@@ -13,6 +14,7 @@ Uji asumsi klasik merupakan syarat yang harus terpenuhi dalam analisis regresi b
 Penelitian ini terbatas pada penggunaan data yang diambil dari internet. Dalam analisis ini, digunakan regresi linear berganda untuk mengevaluasi hubungan antar variabel bebas, dengan asumsi bahwa terdapat korelasi linear antar variabel bebas (multikolinearitas).
 
 Rumusan Masalah
+
 Berdasarkan latar belakang masalah diatas, maka dapat diidentifikasi beberapa masalah, yaitu:
 1)	Apa yang dimaksud dengan Uji Asumsi Multikolinearitas?
 2)	Apakah dampak (akibat) bagi model regresi yang dihasilkan jika Uji Asumsi Multikolinearitas dilanggar?
@@ -22,8 +24,10 @@ Berdasarkan latar belakang masalah diatas, maka dapat diidentifikasi beberapa ma
 6)	Contoh studi kasus dan terapkan mulai dari tahap pemeriksaan hingga mengatasi pelanggaran Uji Asumsi Multikolinearitas.
 
 Batasan Masalah
+
 Ruang lingkup dalam penelitian ini dibatasi pada data yang diambil dari internet atau buku. Lalu, analisis regresi yang digunakan adalah regresi linear berganda dan antar variabel bebas pada data diduga memiliki korelasi linear (multikolinearitas).
 
 Tujuan dan Manfaat
+
 Tujuan dari penelitian ini yaitu untuk dapat membantu meningkatkan pemahaman tentang pentingnya memeriksa asumsi multikolinearitas dalam analisis regresi.
 Adapun manfaat dalam penulisan makalah ini, yaitu bagi pembaca diharapkan dapat mengetahui dan memahami lebih lanjut tentang Uji Asumsi Multikolinearitas. Bagi kami selaku penyusun, dapat menambah wawasan dan dapat lebih memahami lagi tentang Uji Asumsi Multikolinearitas. Sehingga kedepannya dapat meningkatkan kepercayaan pada hasil penelitian dan meningkatkan kredibilitas peneliti.
